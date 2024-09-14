@@ -1,0 +1,13 @@
+workplete_ai_employee/
+├── app.py
+├── data_ingestion.py
+├── data_cleaning.py
+├── analysis_engine.py
+├── report_generation.py
+├── utils.py
+├── tests/
+│   ├── test_data_ingestion.py
+│   ├── test_data_cleaning.py
+│   └── ...
+├── requirements.txt
+└── README.md
